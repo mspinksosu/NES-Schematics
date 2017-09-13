@@ -49,7 +49,7 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=Schematics\NES-NROM Carts.PDF
+OutputFilePath2=C:\Users\maspin\Documents\GitHub\NES-Schematics\Schematics\NES-NROM Carts rev .ProjectRevision.PDF
 ReleaseManaged2=0
 OutputBasePath2=Schematics\
 OutputPathMedia2=
@@ -57,10 +57,10 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=NES-NROM Carts.PDF
+OutputFileName2=Cartridges Schematic Print.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2=
+OutputFileNameSpecial2=='NES NROM Carts rev ' + ProjectRevision
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -76,7 +76,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Free Documents
+OutputBasePath3=Project Outputs for Cartridges
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -89,7 +89,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Free Documents
+OutputBasePath4=Project Outputs for Cartridges
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -126,7 +126,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Schematics\NES-NROM Carts.PDF
+RelativeOutputPath2=C:\Users\maspin\Documents\GitHub\NES-Schematics\Schematics\NES-NROM Carts rev .ProjectRevision.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

@@ -1,0 +1,15 @@
+Project: New OEM BTLA Amplifier 2017
+Engineer: Matthew Spinks
+
+********************************************************************************
+
+1-1-0:
+    Modified the A13 and A13_N pins. There was some confusion about the PPU A13
+    pin. Some sources said that the A13 pin goes to the enable pin of the ROM, 
+    and some said that it went to the enable pin of the VRAM. On the NES
+    motherboard, A13 goes to part of a hex inverter chip. This chip, which
+    outputs A13_N, goes to pin 58 on the cartridge. Pin 58 is usually jumpered 
+    to pin 57 on the cart itself.
+     
+1-0-0: 
+    First submission
