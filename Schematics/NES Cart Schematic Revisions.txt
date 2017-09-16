@@ -2,6 +2,10 @@ Project: New OEM BTLA Amplifier 2017
 Engineer: Matthew Spinks
 
 ********************************************************************************
+1-1-1:
+    Added note on the operation of the A13 pin and the CHR ROM. Added table
+    at bottom with rom sizes. Changed CIC_RST pin on cartridge connector. It
+    is supposed to be active high. Working on UNROM cartridge.
 
 1-1-0:
     Modified the A13 and A13_N pins. There was some confusion about the PPU A13
